@@ -1,4 +1,4 @@
-# 3D Product Viewer for La Redoute  
+# 3D Product Viewer
 **A web interface for interactive 3D product visualization** project, developed whithin the scope of Graphic Systems and Interaction curricular unit (2023/2024).  
 
 ## Features  
