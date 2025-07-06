@@ -1,5 +1,5 @@
 # 3D Product Viewer
-**A web interface for interactive 3D product visualization** project, developed whithin the scope of Graphic Systems and Interaction curricular unit (2023/2024).  
+**A web interface for interactive 3D product visualization** project, developed whithin the scope of Graphic Systems and Interaction course unit (2023/2024).  
 
 ## Features  
 - 3D product manipulation (colors, textures, lighting) using Three.js  
