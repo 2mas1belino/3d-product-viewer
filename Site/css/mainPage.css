@@ -1,0 +1,435 @@
+.listagem-de-produtos {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .listagem-de-produtos .div {
+    background-color: #ffffff;
+    width: 1920px;
+    height: 3566px;
+    position: relative;
+  }
+  
+  .listagem-de-produtos .overlap {
+    position: absolute;
+    width: 1584px;
+    height: 1373px;
+    top: 270px;
+    left: 168px;
+    background-image: url(../img/paginaInicial/group-19.png);
+    background-size: 100% 100%;
+  }
+  
+  .listagem-de-produtos .boto-ver-tudo {
+    display: flex;
+    width: 337px;
+    height: 83px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 11px 23px;
+    position: absolute;
+    top: 1090px;
+    left: 361px;
+    background-color: #f7f7f7;
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .listagem-de-produtos .descubra-este {
+    position: relative;
+    width: fit-content;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .listagem-de-produtos .sala-de-jantar {
+    position: absolute;
+    top: 430px;
+    left: 400px;
+    font-family: "GFS Didot", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .listagem-de-produtos .text-wrapper {
+    position: absolute;
+    top: 969px;
+    left: 1090px;
+    font-family: "GFS Didot", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .listagem-de-produtos .overlap-group {
+    position: absolute;
+    width: 337px;
+    height: 529px;
+    top: 147px;
+    left: 1158px;
+  }
+  
+  .listagem-de-produtos .roupa-de-mulher {
+    position: absolute;
+    top: 0;
+    left: 11px;
+    font-family: "GFS Didot", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .listagem-de-produtos .descubra-este-wrapper {
+    top: 446px;
+    left: 0;
+    display: flex;
+    width: 337px;
+    height: 83px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 11px 23px;
+    position: absolute;
+    background-color: #f7f7f7;
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .listagem-de-produtos .div-wrapper {
+    top: 1202px;
+    left: 1159px;
+    display: flex;
+    width: 337px;
+    height: 83px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 11px 23px;
+    position: absolute;
+    background-color: #f7f7f7;
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .listagem-de-produtos .navbar {
+    position: absolute;
+    width: 1920px;
+    height: 236px;
+    top: 0;
+    left: 0;
+  }
+  
+  .listagem-de-produtos .overlap-2 {
+    position: relative;
+    height: 205px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .listagem-de-produtos .baixa-de-preo {
+    display: flex;
+    width: 157px;
+    height: 27px;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 126px;
+    left: 408px;
+    border-radius: 20px;
+  }
+  
+  .listagem-de-produtos .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    margin-bottom: -9px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #f54141;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .listagem-de-produtos .moda-calado {
+    display: flex;
+    width: 171px;
+    height: 27px;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 126px;
+    left: 823px;
+    border-radius: 20px;
+  }
+  
+  .listagem-de-produtos .moda-cal-ado {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    margin-bottom: -9px;
+    margin-left: -1px;
+    margin-right: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000e6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .listagem-de-produtos .txtil-lar {
+    display: flex;
+    width: 108px;
+    height: 27px;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 126px;
+    left: 577px;
+    border-radius: 20px;
+  }
+  
+  .listagem-de-produtos .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    margin-bottom: -9px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 700;
+    color: #000000e6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .listagem-de-produtos .mobilirio {
+    display: flex;
+    width: 114px;
+    height: 27px;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 126px;
+    left: 697px;
+    border-radius: 20px;
+  }
+  
+  .listagem-de-produtos .outlet {
+    display: flex;
+    width: 80px;
+    height: 27px;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 126px;
+    left: 1006px;
+    border-radius: 20px;
+  }
+  
+  .listagem-de-produtos .business {
+    display: flex;
+    width: 105px;
+    height: 27px;
+    align-items: flex-start;
+    justify-content: space-around;
+    gap: 10px;
+    padding: 5px 10px;
+    position: absolute;
+    top: 126px;
+    left: 1098px;
+    border-radius: 20px;
+  }
+  
+  .listagem-de-produtos .logo-laredoute {
+    position: absolute;
+    width: 139px;
+    height: 139px;
+    top: 36px;
+    left: 48px;
+    object-fit: cover;
+  }
+  
+  .listagem-de-produtos .overlap-3 {
+    position: absolute;
+    width: 1215px;
+    height: 64px;
+    top: 36px;
+    left: 257px;
+    background-color: #f6f7f9;
+    border-radius: 37px;
+  }
+  
+  .listagem-de-produtos .imagem-lupa {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 16px;
+    left: 25px;
+    object-fit: cover;
+  }
+  
+  .listagem-de-produtos .text-wrapper-4 {
+    position: absolute;
+    width: 145px;
+    top: 17px;
+    left: 71px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #00000080;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .listagem-de-produtos .iconsax-linear-user {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 47px;
+    left: 1515px;
+  }
+  
+  .listagem-de-produtos .text-wrapper-5 {
+    position: absolute;
+    width: 155px;
+    top: 52px;
+    left: 1577px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #000000e6;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .listagem-de-produtos .iconsax-linear-heart {
+    position: absolute;
+    width: 43px;
+    height: 43px;
+    top: 47px;
+    left: 1769px;
+  }
+  
+  .listagem-de-produtos .imagem-saco-compras {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    top: 41px;
+    left: 1840px;
+    object-fit: cover;
+  }
+  
+  .listagem-de-produtos .button-menu {
+    position: absolute;
+    width: 140px;
+    height: 53px;
+    top: 120px;
+    left: 257px;
+  }
+  
+  .listagem-de-produtos .overlap-group-2 {
+    position: relative;
+    width: 138px;
+    height: 53px;
+    background-color: #000000d6;
+    border-radius: 55px;
+  }
+  
+  .listagem-de-produtos .iconsax-linear {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 11px;
+    left: 19px;
+  }
+  
+  .listagem-de-produtos .text-wrapper-6 {
+    position: absolute;
+    width: 55px;
+    top: 13px;
+    left: 60px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .listagem-de-produtos .footer {
+    position: absolute;
+    width: 1920px;
+    height: 750px;
+    top: 2816px;
+    left: 0;
+  }
+  
+  .listagem-de-produtos .sala-de-estar {
+    position: absolute;
+    width: 1608px;
+    height: 287px;
+    top: 2130px;
+    left: 156px;
+  }
+  
+  .listagem-de-produtos .img {
+    top: 2431px;
+    position: absolute;
+    width: 1608px;
+    height: 287px;
+    left: 156px;
+  }
+  
+  .listagem-de-produtos .sala-de-estar-2 {
+    top: 1833px;
+    position: absolute;
+    width: 1608px;
+    height: 287px;
+    left: 156px;
+  }
+  
+  .listagem-de-produtos .text-wrapper-7 {
+    position: absolute;
+    top: 1740px;
+    left: 192px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  

@@ -1,0 +1,820 @@
+.pagina-mobiliario {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pagina-mobiliario .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 3377px;
+  position: relative;
+}
+
+.pagina-mobiliario .footer {
+  position: absolute;
+  width: 1920px;
+  height: 750px;
+  top: 2627px;
+  left: 0;
+}
+
+.pagina-mobiliario .tendncias {
+  position: absolute;
+  width: 1346px;
+  height: 485px;
+  top: 2029px;
+  left: 289px;
+}
+
+.pagina-mobiliario .dolce-vita {
+  position: absolute;
+  width: 330px;
+  height: 414px;
+  top: 79px;
+  left: 1018px;
+}
+
+.pagina-mobiliario .variaes-minerais {
+  position: absolute;
+  width: 331px;
+  height: 414px;
+  top: 79px;
+  left: 678px;
+}
+
+.pagina-mobiliario .natureza-romntica {
+  position: absolute;
+  width: 330px;
+  height: 414px;
+  top: 79px;
+  left: 337px;
+}
+
+.pagina-mobiliario .arty-riveira {
+  position: absolute;
+  width: 331px;
+  height: 414px;
+  top: 79px;
+  left: -4px;
+}
+
+.pagina-mobiliario .text-wrapper {
+  position: absolute;
+  width: 231px;
+  top: 0;
+  left: 33px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .les-signatures {
+  position: absolute;
+  width: 1331px;
+  height: 456px;
+  top: 1527px;
+  left: 288px;
+}
+
+.pagina-mobiliario .produto {
+  position: absolute;
+  width: 264px;
+  height: 371px;
+  top: 84px;
+  left: 1073px;
+}
+
+.pagina-mobiliario .overlap-group {
+  position: absolute;
+  width: 198px;
+  height: 104px;
+  top: 267px;
+  left: 29px;
+}
+
+.pagina-mobiliario .LA-REDOUTE {
+  width: 198px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .span {
+  font-weight: 700;
+}
+
+.pagina-mobiliario .text-wrapper-2 {
+  font-weight: 500;
+  font-size: 11px;
+}
+
+.pagina-mobiliario .text-wrapper-3 {
+  width: 64px;
+  top: 57px;
+  left: 37px;
+  font-weight: 500;
+  text-decoration: line-through;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-4 {
+  width: 63px;
+  top: 80px;
+  left: 66px;
+  font-weight: 600;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-5 {
+  left: 111px;
+  position: absolute;
+  width: 46px;
+  top: 57px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .image {
+  width: 256px;
+  height: 267px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.pagina-mobiliario .produto-2 {
+  position: absolute;
+  width: 267px;
+  height: 371px;
+  top: 84px;
+  left: 805px;
+}
+
+.pagina-mobiliario .overlap {
+  position: absolute;
+  width: 237px;
+  height: 104px;
+  top: 267px;
+  left: 10px;
+}
+
+.pagina-mobiliario .p {
+  width: 237px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-6 {
+  font-size: 11px;
+}
+
+.pagina-mobiliario .text-wrapper-7 {
+  width: 64px;
+  top: 57px;
+  left: 57px;
+  font-weight: 500;
+  text-decoration: line-through;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-8 {
+  width: 59px;
+  top: 80px;
+  left: 88px;
+  font-weight: 600;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-9 {
+  left: 131px;
+  position: absolute;
+  width: 46px;
+  top: 57px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .img {
+  width: 259px;
+  height: 246px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.pagina-mobiliario .produto-3 {
+  position: absolute;
+  width: 264px;
+  height: 371px;
+  top: 84px;
+  left: 537px;
+}
+
+.pagina-mobiliario .overlap-2 {
+  position: absolute;
+  width: 256px;
+  height: 104px;
+  top: 267px;
+  left: 0;
+}
+
+.pagina-mobiliario .LA-REDOUTE-2 {
+  position: absolute;
+  width: 256px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-10 {
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 0;
+}
+
+.pagina-mobiliario .text-wrapper-11 {
+  position: absolute;
+  width: 70px;
+  top: 57px;
+  left: 63px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: line-through;
+}
+
+.pagina-mobiliario .text-wrapper-12 {
+  width: 65px;
+  top: 80px;
+  left: 94px;
+  font-weight: 600;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-13 {
+  position: absolute;
+  width: 45px;
+  top: 57px;
+  left: 141px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .image-2 {
+  width: 256px;
+  height: 246px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.pagina-mobiliario .produto-4 {
+  position: absolute;
+  width: 264px;
+  height: 371px;
+  top: 84px;
+  left: 266px;
+}
+
+.pagina-mobiliario .image-3 {
+  width: 256px;
+  height: 245px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.pagina-mobiliario .produto-5 {
+  position: absolute;
+  width: 260px;
+  height: 371px;
+  top: 84px;
+  left: 0;
+}
+
+.pagina-mobiliario .image-4 {
+  width: 252px;
+  height: 246px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.pagina-mobiliario .overlap-3 {
+  position: absolute;
+  width: 215px;
+  height: 104px;
+  top: 267px;
+  left: 21px;
+}
+
+.pagina-mobiliario .LA-REDOUTE-3 {
+  width: 215px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-14 {
+  width: 63px;
+  top: 57px;
+  left: 46px;
+  font-weight: 500;
+  text-decoration: line-through;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-15 {
+  width: 60px;
+  top: 80px;
+  left: 76px;
+  font-weight: 600;
+  position: absolute;
+  font-family: "Poppins", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-16 {
+  left: 120px;
+  position: absolute;
+  width: 46px;
+  top: 57px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .text-wrapper-17 {
+  position: absolute;
+  width: 298px;
+  top: 0;
+  left: 32px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .zoom-em {
+  position: absolute;
+  width: 1331px;
+  height: 478px;
+  top: 969px;
+  left: 288px;
+}
+
+.pagina-mobiliario .mesas-de-centro {
+  position: absolute;
+  width: 327px;
+  height: 408px;
+  top: 77px;
+  left: 1006px;
+}
+
+.pagina-mobiliario .sofs {
+  position: absolute;
+  width: 327px;
+  height: 408px;
+  top: 78px;
+  left: 669px;
+}
+
+.pagina-mobiliario .cadeira {
+  position: absolute;
+  width: 326px;
+  height: 408px;
+  top: 78px;
+  left: 333px;
+}
+
+.pagina-mobiliario .mesas {
+  position: absolute;
+  width: 326px;
+  height: 408px;
+  top: 78px;
+  left: -4px;
+}
+
+.pagina-mobiliario .text-wrapper-18 {
+  position: absolute;
+  top: 0;
+  left: 33px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .coleo-mveis-e {
+  position: absolute;
+  width: 1318px;
+  height: 618px;
+  top: 271px;
+  left: 289px;
+}
+
+.pagina-mobiliario .frame {
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 14px;
+  position: absolute;
+  top: 88px;
+  left: 0;
+  border-radius: 6px;
+}
+
+.pagina-mobiliario .sala-de-estar {
+  position: relative;
+  width: 437px;
+  height: 537px;
+  margin-bottom: -7.36px;
+  margin-left: -4px;
+}
+
+.pagina-mobiliario .sala-de-jantar {
+  position: relative;
+  width: 437.29px;
+  height: 537.64px;
+  margin-bottom: -8px;
+}
+
+.pagina-mobiliario .mveis-de-quarto {
+  position: relative;
+  width: 437.58px;
+  height: 537.64px;
+  margin-bottom: -8px;
+  margin-right: -4px;
+}
+
+.pagina-mobiliario .coleo-MVEIS-e {
+  position: absolute;
+  width: 613px;
+  height: 47px;
+  top: 5px;
+  left: 34px;
+}
+
+.pagina-mobiliario .navbar {
+  position: absolute;
+  width: 1920px;
+  height: 236px;
+  top: 0;
+  left: 0;
+}
+
+.pagina-mobiliario .overlap-4 {
+  position: relative;
+  height: 205px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.pagina-mobiliario .baixa-de-preo {
+  display: flex;
+  width: 157px;
+  height: 27px;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 126px;
+  left: 408px;
+  border-radius: 20px;
+}
+
+.pagina-mobiliario .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-bottom: -9px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #f54141;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .moda-calado {
+  display: flex;
+  width: 171px;
+  height: 27px;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 126px;
+  left: 823px;
+  border-radius: 20px;
+}
+
+.pagina-mobiliario .moda-cal-ado {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-bottom: -9px;
+  margin-left: -1px;
+  margin-right: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #000000e6;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .txtil-lar {
+  display: flex;
+  width: 108px;
+  height: 27px;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 126px;
+  left: 577px;
+  border-radius: 20px;
+}
+
+.pagina-mobiliario .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-bottom: -9px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #000000e6;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .mobilirio {
+  display: flex;
+  width: 114px;
+  height: 27px;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 126px;
+  left: 697px;
+  border-radius: 20px;
+}
+
+.pagina-mobiliario .outlet {
+  display: flex;
+  width: 80px;
+  height: 27px;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 126px;
+  left: 1006px;
+  border-radius: 20px;
+}
+
+.pagina-mobiliario .business {
+  display: flex;
+  width: 105px;
+  height: 27px;
+  align-items: flex-start;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 126px;
+  left: 1098px;
+  border-radius: 20px;
+}
+
+.pagina-mobiliario .logo-laredoute {
+  position: absolute;
+  width: 139px;
+  height: 139px;
+  top: 36px;
+  left: 48px;
+  object-fit: cover;
+}
+
+.pagina-mobiliario .overlap-5 {
+  position: absolute;
+  width: 1215px;
+  height: 64px;
+  top: 36px;
+  left: 257px;
+  background-color: #f6f7f9;
+  border-radius: 37px;
+}
+
+.pagina-mobiliario .imagem-lupa {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 16px;
+  left: 25px;
+  object-fit: cover;
+}
+
+.pagina-mobiliario .text-wrapper-21 {
+  position: absolute;
+  width: 145px;
+  top: 17px;
+  left: 71px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: #00000080;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .iconsax-linear-user {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 47px;
+  left: 1515px;
+}
+
+.pagina-mobiliario .text-wrapper-22 {
+  position: absolute;
+  width: 155px;
+  top: 52px;
+  left: 1577px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #000000e6;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pagina-mobiliario .iconsax-linear-heart {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 47px;
+  left: 1769px;
+}
+
+.pagina-mobiliario .imagem-saco-compras {
+  position: absolute;
+  width: 52px;
+  height: 52px;
+  top: 41px;
+  left: 1840px;
+  object-fit: cover;
+}
+
+.pagina-mobiliario .button-menu {
+  position: absolute;
+  width: 140px;
+  height: 53px;
+  top: 120px;
+  left: 257px;
+}
+
+.pagina-mobiliario .overlap-group-2 {
+  position: relative;
+  width: 138px;
+  height: 53px;
+  background-color: #000000d6;
+  border-radius: 55px;
+}
+
+.pagina-mobiliario .iconsax-linear {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 11px;
+  left: 19px;
+}
+
+.pagina-mobiliario .text-wrapper-23 {
+  position: absolute;
+  width: 55px;
+  top: 13px;
+  left: 60px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
